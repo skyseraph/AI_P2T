@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI实践到理论系列(by skyseraph)</string>
+    <string name="app_mnist_name">手写数字识别</string>
+    <string name="about">About</string>
+</resources>
